@@ -32,3 +32,6 @@ Service ini dibuat secara RestFull sehingga hanya menggunakan 1 endpoint yang da
 
 ## Delete data
 ![image](https://user-images.githubusercontent.com/59037594/198885825-2c5acf97-dc04-437f-afb8-754ea506884a.png)
+
+# Struktur database booking-service
+![image](https://user-images.githubusercontent.com/59037594/198886649-82baac5f-0259-450f-9e47-3899ee1e8485.png)
