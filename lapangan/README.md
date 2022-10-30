@@ -11,56 +11,45 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+# Testing API Admin Service with Laravel using Postman
+1197050056 - Irvan Falasifa.project
 
-## Learning Laravel
+1. Database on MySql
+![Screenshot (4)](https://user-images.githubusercontent.com/84895252/198862273-26d49c8b-0bfd-4e1a-95ec-df53db739925.png)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+2. Laravel code using JWT for User Authenticate
+![Screenshot (12)](https://user-images.githubusercontent.com/84895252/198862347-17d89ddd-e9ab-45c6-a033-aee51b7528bb.png)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+3. Register Testing
+![Screenshot (5)](https://user-images.githubusercontent.com/84895252/198862390-b9d079a5-2b79-440b-98b7-0c08d0650d84.png)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Add user will be automatic insert on Database
 
-## Laravel Sponsors
+![Screenshot (13)](https://user-images.githubusercontent.com/84895252/198862416-ac1f7317-a2dc-42c0-8e16-2f784c74303e.png)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+4. Login Testing
+![Screenshot (6)](https://user-images.githubusercontent.com/84895252/198862445-7795ecee-cbbb-4675-bd89-f7fa6e2695a3.png)
 
-### Premium Partners
+If Login Success, you have a Token for authenticate and access all data on the App
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+5. Feature Lapangan Testing (withOut Login)
+This for Example from access data withOut login. You can see data "lapangan" but you cant see all "lapangan" and modify them
+![Screenshot (7)](https://user-images.githubusercontent.com/84895252/198862497-2a426f90-b34e-4949-90f1-e9df12e6e6f9.png)
 
-## Contributing
+6. Feature All Lapangan (with Login)
+This for Example Access data with login and this App can find out who entered
+![Screenshot (9)](https://user-images.githubusercontent.com/84895252/198862571-0a9a9168-221a-4271-ba76-b93d9f1343b1.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Before Login Success, we need the token that we got on the global variabel
+![Screenshot (8)](https://user-images.githubusercontent.com/84895252/198862669-b73a120d-3318-41be-9ab8-05adf319514d.png)
 
-## Code of Conduct
+7. Feature can find out who entered/login
+![Screenshot (10)](https://user-images.githubusercontent.com/84895252/198862687-927e40ab-57ee-4463-8594-e0881c6a1126.png)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+8. Logout Testing
+![Screenshot (11)](https://user-images.githubusercontent.com/84895252/198862695-8065354b-1b0f-4425-80b0-8ab783c50b83.png)
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
