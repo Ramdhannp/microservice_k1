@@ -1,6 +1,12 @@
 # About this
 Rest-client berfungsi untuk melakukan request ke beberapa service dan menampilkan respont dari service tersebut. Rest-client merupakan bagian frontend dari aplikasi ini yang dibuat menggunakan framework bootstrap, untuk melakukan request rest api nya menggunakn cURL. Rest-client digunakan untuk mengirim respon dengan berbagai method sehingga dapat dilakukan proses crud pada beberapa service
 
+# Teknologi yang digunakanan
+![Untitled](https://user-images.githubusercontent.com/59037594/198886980-469bbcbb-1352-42cb-8a48-1fdefa7b9249.png)
+1. PHP
+2. cURL
+3. Bootstrap
+
 ## Tampilan menu home
 ![image](https://user-images.githubusercontent.com/59037594/198863602-a4a9a112-76de-44cc-9f16-8f227b3122e6.png)
 
