@@ -33,6 +33,7 @@ Sebuah website untuk mencatat pernyewaan lapangan olahraga, dibangun dengan stru
 
 Aplikasi ini fokus pada backend services, semua rest-api dapat kita cek menggunakan aplikasi Postman.
 Jika ingin menjalakan aplikasi dalam platform website pastikan semua folder service sudah disimpan di direktori C:\xampp\htdocs. apabila sudah maka langsung saja buka new tab di browser dengan url `http://localhost/rest-client/index.php`, secara default akan masuk kedalam menu home.
+
 ![image](https://user-images.githubusercontent.com/59037594/198870538-e1a8056e-fd80-47c1-8bb7-2c37be814c13.png)
 
 `Untuk penjelasan setiap service bisa dilihat di masing-masing branch services`
