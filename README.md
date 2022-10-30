@@ -18,3 +18,13 @@ teknologi yang dipakai pada service ini adalah:
 | Update data    | PUT | http://localhost:8080/products-service/api_edit.php  |
 | Delete data    | DELETE | http://localhost:8080/products-service/api_hapus.php  |
 
+#Menampilkan seluruh data
+![1](https://user-images.githubusercontent.com/85150506/198873719-f9f274de-26ff-49c6-a554-74f387d4d072.png)
+
+#Menampilkan data sesuai id inputan
+![2](https://user-images.githubusercontent.com/85150506/198874195-3e647055-4818-4cf1-a14c-cf22d2067261.png)
+
+#Demo tambah data
+![3](https://user-images.githubusercontent.com/85150506/198874486-ba060bc2-47cb-4042-98c3-ce00f95c367d.png)
+menampilkan data sesudah ditambah data
+![4](https://user-images.githubusercontent.com/85150506/198874561-ba96021b-5f4c-4f95-b1f8-24214ec5561c.png)
