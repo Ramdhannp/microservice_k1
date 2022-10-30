@@ -37,4 +37,7 @@ id 7 sesudah di update
 ![6](https://user-images.githubusercontent.com/85150506/198875018-21349861-b899-488f-8d58-9273f789d54b.png)
 
 # Delete data
-disini saya menghapus data dengan id 7
+disini saya menghapus data dengan id = 7
+![7](https://user-images.githubusercontent.com/85150506/198875943-a660763a-a679-448b-b48a-ce82b8b4ecf4.png)
+dan data pun berhasil dihapus, dapat dilihat pada gambar dibawah data sudah tidak tersedia lagi
+![8](https://user-images.githubusercontent.com/85150506/198876023-4c6d8e44-918e-4753-bad5-8ebd3ea436b3.png)
