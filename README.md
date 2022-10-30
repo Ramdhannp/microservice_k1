@@ -10,11 +10,11 @@ Service ini dibuat secara RestFull sehingga hanya menggunakan 1 endpoint yang da
 
 | API            | REST METHOD   | Api request |
 | -------------  | ------------- | -------------|
-| Get all data   | GET | http://localhost/booking-service/api/booking  | 
-| Get data by id | GET | http://localhost/booking-service/api/booking  |
-| Add data       | POST | http://localhost/booking-service/api/booking  |
-| Update data    | PUT | http://localhost/booking-service/api/booking  |
-| Delete data    | DELETE | http://localhost/booking-service/api/booking  |
+| Get all data   | GET | `http://localhost/booking-service/api/booking`  | 
+| Get data by id | GET | `http://localhost/booking-service/api/booking`  |
+| Add data       | POST | `http://localhost/booking-service/api/booking`  |
+| Update data    | PUT | `http://localhost/booking-service/api/booking` |
+| Delete data    | DELETE | `http://localhost/booking-service/api/booking`  |
 
 # Testing API dengan Postman
 ## Get all data
@@ -22,3 +22,9 @@ Service ini dibuat secara RestFull sehingga hanya menggunakan 1 endpoint yang da
 
 ## Get data by id
 ![image](https://user-images.githubusercontent.com/59037594/198871016-d2621b05-6ed3-49fc-afe7-3c5640906157.png)
+
+## Add data
+
+## Update data
+
+## Delete data
