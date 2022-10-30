@@ -1,2 +1,2 @@
-# microservice_k1
+# Product Service
 Website untuk mencatat pernyewaan lapangan olahraga, dibangun dengan struktur microservice
