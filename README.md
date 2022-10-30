@@ -19,7 +19,7 @@ teknologi yang dipakai pada service ini adalah:
 | Update data    | PUT | http://localhost:8080/products-service/api_edit.php  |
 | Delete data    | DELETE | http://localhost:8080/products-service/api_hapus.php  |
 
-# Test CRUD REST AOI
+# Test CRUD REST API
 ## Menampilkan seluruh data
 ![1](https://user-images.githubusercontent.com/85150506/198873719-f9f274de-26ff-49c6-a554-74f387d4d072.png)
 
