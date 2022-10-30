@@ -2,6 +2,7 @@
 sebuah restfull-api yang menyimpan data transaksi penyewaan lapangan olahraga, kita juga dapat mengirim request dengan beberapa method untuk melakukan CRUD pada database service tersebut.
 
 # Teknologi yang dipakai pada service ini adalah:
+![Untitled-1](https://user-images.githubusercontent.com/59037594/198886163-2d1eea03-a492-482b-9307-b2b345273915.png)
 1. CodeIgniter
 2. Mysql (database)
 
