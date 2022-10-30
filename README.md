@@ -1,4 +1,4 @@
-# about booking-service
+# About booking-service
 sebuah restfull-api yang menyimpan data transaksi penyewaan lapangan olahraga, kita juga dapat mengirim request dengan beberapa merthod untuk melakukan CRUD pada database service tersebut.
 teknologi yang dipakai pada service ini adalah:
 1. CodeIgniter
