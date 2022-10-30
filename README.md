@@ -24,7 +24,10 @@ Service ini dibuat secara RestFull sehingga hanya menggunakan 1 endpoint yang da
 ![image](https://user-images.githubusercontent.com/59037594/198871016-d2621b05-6ed3-49fc-afe7-3c5640906157.png)
 
 ## Add data
+![image](https://user-images.githubusercontent.com/59037594/198885662-d6fcb8a2-7052-492d-b4b5-f1c16b43cfc8.png)
 
 ## Update data
+![image](https://user-images.githubusercontent.com/59037594/198885764-bec49451-587d-45be-a4e8-79542ee91324.png)
 
 ## Delete data
+![image](https://user-images.githubusercontent.com/59037594/198885825-2c5acf97-dc04-437f-afb8-754ea506884a.png)
