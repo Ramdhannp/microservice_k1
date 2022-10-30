@@ -28,3 +28,13 @@ teknologi yang dipakai pada service ini adalah:
 ![3](https://user-images.githubusercontent.com/85150506/198874486-ba060bc2-47cb-4042-98c3-ce00f95c367d.png)
 menampilkan data sesudah ditambah data
 ![4](https://user-images.githubusercontent.com/85150506/198874561-ba96021b-5f4c-4f95-b1f8-24214ec5561c.png)
+
+# Update data
+disini saya mengupdate data pada id 7, dengan mengubah harga yang awalnya Rp. 110.000/jam menjadi Rp.150.000/jam
+id 7 sebelum di update
+![4](https://user-images.githubusercontent.com/85150506/198874561-ba96021b-5f4c-4f95-b1f8-24214ec5561c.png)
+id 7 sesudah di update
+![6](https://user-images.githubusercontent.com/85150506/198875018-21349861-b899-488f-8d58-9273f789d54b.png)
+
+# Delete data
+disini saya menghapus data dengan id 7
