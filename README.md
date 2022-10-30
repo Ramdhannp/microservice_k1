@@ -12,9 +12,9 @@ teknologi yang dipakai pada service ini adalah:
 # REST API Doc
 | API            | REST METHOD   | Api request |
 | -------------  | ------------- | -------------|
-| Get all data   | GET | http://localhost:8080/produkLapang/api_tampil_all.php  | 
-| Get data by id | GET | http://localhost:8080/produkLapang/api_tampil_byid.php  |
-| Add data       | POST | http://localhost:8080/produkLapang/api_tambah.php  |
-| Update data    | PUT | http://localhost:8080/produkLapang/api_tambah.php  |
-| Delete data    | DELETE | http://localhost:8080/produkLapang/api_hapus.php  |
+| Get all data   | GET | http://localhost:8080/products-service/api_tampil_all.php  | 
+| Get data by id | GET | http://localhost:8080/products-service/api_tampil_byid.php?id=  |
+| Add data       | POST | http://localhost:8080/products-service/api_tambah.php  |
+| Update data    | PUT | http://localhost:8080/products-service/api_edit.php  |
+| Delete data    | DELETE | http://localhost:8080/products-service/api_hapus.php  |
 
