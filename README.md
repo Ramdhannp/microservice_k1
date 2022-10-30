@@ -26,5 +26,5 @@ teknologi yang dipakai pada service ini adalah:
 
 # Demo tambah data
 ![3](https://user-images.githubusercontent.com/85150506/198874486-ba060bc2-47cb-4042-98c3-ce00f95c367d.png)
-<p>menampilkan data sesudah ditambah data</p>
+menampilkan data sesudah ditambah data
 ![4](https://user-images.githubusercontent.com/85150506/198874561-ba96021b-5f4c-4f95-b1f8-24214ec5561c.png)
